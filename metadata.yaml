@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/68
     wikipedia: http://en.wikipedia.org/wiki/Jane_Austen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37634#Raison-et-sensibilit--ou-les-deux-mani-res-d-aimer--Tome-4-
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2011-10-05'
 gutenberg_type: Text
