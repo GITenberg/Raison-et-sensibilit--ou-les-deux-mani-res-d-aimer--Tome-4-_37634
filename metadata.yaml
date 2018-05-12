@@ -1,0 +1,55 @@
+_repo: Raison-et-sensibilit--ou-les-deux-mani-res-d-aimer--Tome-4-_37634
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Montolieu, Isabelle de
+    aliases:
+    - Montolieu, Madame de (Isabelle)
+    - Bottens, Jeanne Isabelle Pauline de
+    - Montolieu, Elisabeth Jeanne Pauline Polier, baronne de
+    - De Montolieu, Isabelle
+    - Montolieu, Jeanne Isabelle Pauline Polier, baronne de
+    - Polier, Pauline
+    birthdate: 1751
+    deathdate: 1832
+    gutenberg_agent_id: '7839'
+    url: http://www.gutenberg.org/2009/agents/7839
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Isabelle_de_Montolieu
+    - http://fr.wikipedia.org/wiki/Isabelle_de_Montolieu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Austen, Jane
+    birthdate: 1775
+    deathdate: 1817
+    gutenberg_agent_id: '68'
+    url: http://www.gutenberg.org/2009/agents/68
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Austen
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37634'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gentry -- England -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Regency fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Social classes -- Fiction'
+title: Raison et sensibilité, ou les deux manières d'aimer (Tome 4)
+url: http://www.gutenberg.org/ebooks/37634
